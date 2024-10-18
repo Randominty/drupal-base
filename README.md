@@ -1,3 +1,4 @@
+PRODUCTION
 # Base template for Drupal projects hosted on Lagoon
 
 This template includes everything necessary to run on [Lagoon](https://www.github.com/uselagoon/lagoon) (in both the local development environments or on hosted Lagoon clusters.)
